@@ -13,7 +13,6 @@ python ipagent.py
 /___/_/      /_/  |_\____/_____/_/ |_/ /_/
 
 Please input an ip address: 8.8.8.8
-The tool will display information like:
 
 [IP] : 8.8.8.8
 [Int prov] : Google LLC
