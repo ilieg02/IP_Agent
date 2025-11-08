@@ -2,11 +2,11 @@
 
 **IP AGENT** is a simple Python tool that allows you to fetch geolocation and ISP information of any given IP address using the [ip-api.com](http://ip-api.com) service. The tool displays the IP information in a clean and easy-to-read format.
 
-    ________     ___   _____________   ________
+```bash
    /  _/ __ \   /   | / ____/ ____/ | / /_  __/
    / // /_/ /  / /| |/ / __/ __/ /  |/ / / /   
  _/ // ____/  / ___ / /_/ / /___/ /|  / / /    
-/___/_/      /_/  |_\____/_____/_/ |_/ /_/  
+/___/_/      /_/  |_\____/_____/_/ |_/ /_/""
 
 Please input an ip address: 8.8.8.8
 The tool will display information like:
@@ -46,7 +46,6 @@ Clone or download the repository.
 
 Run the script using Python:
 
-bash
 Copy code
 python ip_agent.py
 Enter the IP address when prompted:
