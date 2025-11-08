@@ -22,7 +22,8 @@ The tool will display information like:
 [LAT] : 37.751
 [LON] : -97.822
 
-```markdown
+-----------------------------------------------
+
 
 ## Features
 
@@ -35,7 +36,7 @@ The tool will display information like:
 - Command-line interface with an ASCII banner
 - Simple and lightweight
 
----
+-----------------------------------------------
 
 ## Requirements
 
