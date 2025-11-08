@@ -53,13 +53,7 @@ Copy code
 [LON] : -97.822
 Example
 Copy code
-██████╗ ██╗██████╗      █████╗ ███████╗████████╗████████╗
-██╔══██╗██║██╔══██╗    ██╔══██╗██╔════╝╚══██╔══╝╚══██╔══╝
-██████╔╝██║██████╔╝    ███████║███████╗   ██║      ██║   
-██╔═══╝ ██║██╔═══╝     ██╔══██║╚════██║   ██║      ██║   
-██║     ██║██║         ██║  ██║███████║   ██║      ██║   
-╚═╝     ╚═╝╚═╝         ╚═╝  ╚═╝╚══════╝   ╚═╝      ╚═╝   
-Notes
+![Alt text for the image](images/ss.png)
 Make sure you have an active internet connection.
 
 The tool uses a free public API which may have request limits.
