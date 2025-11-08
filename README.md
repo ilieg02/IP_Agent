@@ -3,6 +3,7 @@
 **IP AGENT** is a simple Python tool that allows you to fetch geolocation and ISP information of any given IP address using the [ip-api.com](http://ip-api.com) service. The tool displays the IP information in a clean and easy-to-read format.
 
 ```markdown
+To run :
 
 python ipagent.py
 
@@ -46,11 +47,11 @@ The tool will display information like:
 
 Install dependencies using pip:
 
-```bash
 pip install requests pyfiglet
 Usage
 Clone or download the repository.
 
+-----------------------------------------------
 
 Notes:
 Make sure you have an active internet connection.
